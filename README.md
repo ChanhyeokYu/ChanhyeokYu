@@ -4,9 +4,6 @@ Platforms & Languages
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=blue)
 ![unrealengine](https://img.shields.io/badge/unrealengine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=black)
 
-![ChanhyeokYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanhyeokYu&show_icons=true&theme=dark)
-
-
 <!--
 **ChanhyeokYu/ChanhyeokYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
